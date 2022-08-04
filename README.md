@@ -21,6 +21,7 @@ As this challenge leverages Remix IDE, a web-based tool as well as GitHub, there
 ![Screen Shot 2022-08-04 at 6 58 13 PM](https://user-images.githubusercontent.com/98444459/182969142-4a9e87dc-e8eb-40cc-bcd2-4f721e63c44a.png)
 
 **Testing Deposits**
+
 1 Ether as Wei
 ![Screen Shot 2022-08-04 at 7 00 56 PM](https://user-images.githubusercontent.com/98444459/182969474-6fa470d1-feab-45df-a425-2c3f87490596.png)
 
@@ -31,6 +32,7 @@ As this challenge leverages Remix IDE, a web-based tool as well as GitHub, there
 ![Screen Shot 2022-08-04 at 7 03 58 PM](https://user-images.githubusercontent.com/98444459/182969718-0371b018-fca2-4ac2-94b6-c089a9cc605c.png)
 
 **Withdraw Functions**
+
 5 Eth to Account 1
 ![Screen Shot 2022-08-04 at 7 06 23 PM](https://user-images.githubusercontent.com/98444459/182969973-2a1323fc-7e8f-4243-81b0-91a51b6486a0.png)
 ![Screen Shot 2022-08-04 at 7 07 34 PM](https://user-images.githubusercontent.com/98444459/182970037-4f698d7a-d2de-4af6-9f58-702891873492.png)
@@ -43,11 +45,8 @@ As this challenge leverages Remix IDE, a web-based tool as well as GitHub, there
 
 ---
 
-## Validation
 
---- 
-
-### Contributors
+#### Contributors
 
 Made by:
 Ryan Anderson
@@ -56,6 +55,6 @@ Ryan Anderson
 
 ---
 
-### License
+#### License
 
 No licenses are required to run this application
