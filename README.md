@@ -12,7 +12,15 @@ This program leverages Solidity 0.5.17.
 
 ## Installation Guide
 
-As this challenge leverages Remix IDE, a web-based tool as well as GitHub, there are no installations required. That said, the following instructions outline how to connect your GitHub to Remix, how to compile and deploy the smart contract and finally, how to use it.
+As this challenge leverages Remix IDE, a web-based tool as well as GitHub, there are no installations required. Simply copy the code from the joint_savings.sol file into a new file in the Remix IDE (remix.ethereum.org). Once this is done:
+1. Compile the Code
+<img width="410" alt="Screen Shot 2022-08-04 at 10 24 13 PM" src="https://user-images.githubusercontent.com/98444459/182988371-6fa1def0-a8a3-46e9-bfed-ba3a0c6e5eef.png">
+
+2. Deploy the code
+<img width="413" alt="Screen Shot 2022-08-04 at 10 24 50 PM" src="https://user-images.githubusercontent.com/98444459/182988381-1714b96f-c346-47d7-8103-b13b4fe7007f.png">
+
+3. Get to playing!
+<img width="329" alt="Screen Shot 2022-08-04 at 10 25 02 PM" src="https://user-images.githubusercontent.com/98444459/182988389-55dac0be-6c74-4c92-b360-dd3d4b5b494b.png">
 
 ---
 
